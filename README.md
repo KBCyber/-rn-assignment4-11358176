@@ -41,7 +41,7 @@ name and email or via social media accounts.
 
 ### Login Screen
 
-![Login Screen](./project4/assets/images/homescreen.png)
+![Login Screen](./project4/assets/images/login.png)
 
 ### Home Screen
 
