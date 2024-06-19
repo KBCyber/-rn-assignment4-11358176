@@ -1,6 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, Image } from 'react-native';
 
+
 export default function PopularJobCard({ job }) {
   return (
     <View style={styles.card}>
@@ -22,14 +23,17 @@ export default function PopularJobCard({ job }) {
 const styles = StyleSheet.create({
   card: {
     backgroundColor: '#fff',
-    borderRadius: 10,
-    padding: 10,
+    borderRadius: 15,
+    paddingTop: 25,
+    paddingBottom: 25,
+    paddingLeft: 20,
+    paddingRight: 20,
     marginBottom: 10,
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.1,
     shadowRadius: 8,
-    elevation: 3,
+    elevation: 0.3,
     flexDirection: 'row',
     alignItems: 'center',
   },
