@@ -43,7 +43,7 @@ The app features a simple and clean user interface, and allows users to log in u
 
 ### Home Screen
 
-![Home Screen](path/to/home_screen_screenshot.png)
+![Home Screen](../components/images/image.png)
 
 ## Installation and Usage
 
