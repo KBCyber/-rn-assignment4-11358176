@@ -4,7 +4,7 @@ import { Ionicons } from '@expo/vector-icons';
 import FeaturedJobCard from './FeaturedJobCard';
 import PopularJobCard from './PopularJobCard';
 
-// Import local images
+
 const facebookLogo = require('../assets/images/facebook.png');
 const googleLogo = require('../assets/images/google.png');
 const amazonLogo = require('../assets/images/apple.png');
@@ -155,8 +155,8 @@ const styles = StyleSheet.create({
     width: 17,
     height: 17,
     borderRadius: 10,
-    borderWidth: 4,      // Adjust this value to change the border thickness
-    borderColor: '#FFF', // Change this value to the desired border color
+    borderWidth: 4,  
+    borderColor: '#FFF',
     backgroundColor: 'red',
     position: 'absolute',
     top: 5,
