@@ -39,13 +39,17 @@ name and email or via social media accounts.
 
 ## Screenshots
 
-### Login Screen
+<div style="display: flex; justify-content: space-around;">
 
-![Login Screen](./project4/assets/images/login.png)
+### `LoginScreen`
 
-### Home Screen
+  <img src="./project4/assets/images/login.png" alt="Loginscreen" width="230"/>
 
-![Home Screen](./project4/assets/images/homescreen.png)
+### This is the Home Screen `Home Screen`
+  <img src="./project4/assets/images/homescreen.png" alt="Homescreen" width="230"/>
+</div>
+
+
 
 ## Installation and Usage
 
