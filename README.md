@@ -41,11 +41,11 @@ name and email or via social media accounts.
 
 ### Login Screen
 
-![Login Screen](./project4/assets/images/home.png)
+![Login Screen](./project4/assets/images/homescreen.png)
 
 ### Home Screen
 
-![Home Screen](path/to/home_screen_screenshot.png)
+![Home Screen](./project4/assets/images/homescreen.png)
 
 ## Installation and Usage
 
